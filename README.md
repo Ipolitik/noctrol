@@ -1,1 +1,4 @@
 # noctrol
+control
+future
+speaker
